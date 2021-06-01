@@ -1,9 +1,0 @@
-dist/
-node_modules/
-typedocs/
-package/
-*.tgz
-.DS_Store
-.vscode
-coverage
-.nyc_output
